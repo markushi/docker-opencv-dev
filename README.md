@@ -16,6 +16,6 @@ pipelines:
         script:
           - mkdir build
           - cd build
-          - cmake ../Linux
+          - cmake ..
           - make
 ````
